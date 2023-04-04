@@ -35,13 +35,13 @@ object Jefferson {
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/jeffersonvorpagel">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffersonvorpagel&layout=Demo&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonvorpagel&layout=Demo&theme=dark"/>
 </div>
 
 <h2 align="left"> Git Hub Stats </h2>
 <div align="left">
   <a href="https://github.com/jeffersonvorpagel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeffersonvorpagel&show_icons=true&theme=dark&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonvorpagel&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 [Instagram]: https://www.instragram.com/vorpageljeff
