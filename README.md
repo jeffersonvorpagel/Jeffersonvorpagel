@@ -35,7 +35,7 @@ object Jefferson {
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/jeffersonvorpagel">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonvorpagel&layout=Demo&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonvorpagel&theme=dark"/>
 </div>
 
 <h2 align="left"> Git Hub Stats </h2>
